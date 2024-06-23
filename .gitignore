@@ -111,7 +111,6 @@ venv.bak/
 *.DS_Store
 
 # Table extraction downloaded models
-src/table_extraction/Table_extract_robust/
 src/table_extraction/h5_opener.py
 src/table_extraction/read_h5.py
 src/table_extraction/yolo_helpers/keras_yolo3/

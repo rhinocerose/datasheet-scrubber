@@ -63,7 +63,7 @@ except ImportError:
 		print("You can manually install gdown using 'conda install -c conda-forge gdown'.")
 
 tablext_src_dir = os.path.dirname(__file__)
-url = 'https://drive.google.com/u/0/uc?id=1RFDf8LUAGTWk_SjmPLuxzxgAZDIWvCiD&export=download'
+url = 'https://drive.google.com/u/0/uc?id=1ub5Z4lMTTX1S428TZG4NttkzYaGuR7ZK&export=download'
 table_extract_robust_zip = os.path.join(tablext_src_dir, 'Table_extract_robust.zip')
 if not os.path.exists(table_extract_robust_zip):
 	try:
